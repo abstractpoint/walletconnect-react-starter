@@ -1,1 +1,3 @@
-# walletconnect-react-starter
+## WalletConnect React Starter
+
+Documentation coming soon
